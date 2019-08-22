@@ -1,8 +1,8 @@
 package practice01;
 
 public class Person {
-	private String name;
-	private int age;
+	public String name;
+	public int age;
 	
 	public String getName() {
 		return name;
